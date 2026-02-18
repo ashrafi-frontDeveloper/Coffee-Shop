@@ -23,6 +23,8 @@ A beautiful, responsive single-page coffee shop website with **dark/light mode**
 
 ## 🖥️ Screenshots
 
+![Coffee Shop Hero - Cafe](img/Cafe.png)
+
 ### Hero & Main View (Light Mode)
 
 <!-- You can replace this with your own screenshot later -->
