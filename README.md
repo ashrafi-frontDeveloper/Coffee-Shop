@@ -48,5 +48,3 @@ No frameworks, no build tools — pure front-end learning project 🚀
 🌐 https://ashrafi-frontdeveloper.github.io/Coffee-Shop/
 
 Feel free to explore the products, switch themes, add items to cart and see the total update in real time!
-
-## 📂 Project Structure
